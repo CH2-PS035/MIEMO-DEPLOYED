@@ -9,6 +9,7 @@
 <br/>(MD)  A175BSY1986 – Hernawan Abidin – STMIK Sinar Nusantara
 <br/>(MD)  A296BSY2171 – Muhammad Azka Zaki – Universitas Pembangunan Nasional Veteran Jawa Timur
 <br/>
+<br/>  DEPLOYED APK  : https://drive.google.com/file/d/1gk-g2SZ9TcVzmSleX3JP9Ie_LrZVbjeK/view?usp=sharing
 <br/>
 <br/>Documentation  :
 <br/>(MD)  https://github.com/azkazaki27/MIEMO-capstone.git
