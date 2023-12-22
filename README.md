@@ -11,6 +11,7 @@ Team Member  :
 
 Documentation  :
 https://github.com/azkazaki27/MIEMO-capstone.git
+https://github.com/NocIcoN/API-Miemo
 
 Background     :
 https://www.canva.com/design/DAF3DkJ7lik/y0mbZhapFnALzDekIMCTSw/edit?utm_content=DAF3DkJ7lik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
