@@ -1,7 +1,7 @@
 # MIEMO-DEPLOYED
 <br/>Team ID      :  CH2-PS035
 <br/>Team Member  :  
-<br/>(ML)  M010BSX0270 – Made Devinda Adyapti – Universitas Indonesia<br/>
+<br/>(ML)  M010BSX0270 – Made Devinda Adyapti – Universitas Indonesia
 <br/>(ML)  M296BSY0907 – Rangga Widiasmara – Universitas Pembangunan Nasional Veteran Jawa Timur
 <br/>(ML)  M010BSX0844 – Restu Alfath – Universitas Indonesia
 <br/>(CC)  C296BSY4333 – Doding Laswadana – Universitas Pembangunan Nasional Veteran Jawa Timur
