@@ -14,6 +14,7 @@
 <br/>https://github.com/azkazaki27/MIEMO-capstone.git
 <br/>https://github.com/NocIcoN/API-Miemo
 <br/>
+<br/> EndPoint API  :   https://quick-formula-405704.et.r.appspot.com/
 <br/>
 <br/>Background     :
 <br/>https://www.canva.com/design/DAF3DkJ7lik/y0mbZhapFnALzDekIMCTSw/edit?utm_content=DAF3DkJ7lik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
