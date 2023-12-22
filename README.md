@@ -11,8 +11,9 @@
 <br/>
 <br/>
 <br/>Documentation  :
-<br/>https://github.com/azkazaki27/MIEMO-capstone.git
-<br/>https://github.com/NocIcoN/API-Miemo
+<br/>(MD)  https://github.com/azkazaki27/MIEMO-capstone.git
+<br/>(CC)  https://github.com/NocIcoN/API-Miemo
+<br/>(ML)  https://colab.research.google.com/drive/1bG4iqBsLrgGAmjE_6ew-LA-rRZrfDPWq?usp=sharing
 <br/>
 <br/> EndPoint API  :   https://quick-formula-405704.et.r.appspot.com/
 <br/>
